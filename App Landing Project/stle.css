@@ -1,0 +1,27 @@
+/* General body font */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Jumbotron section */
+.jumbotron-section {
+  background: #0d6efd;
+  color: white;
+}
+
+/* Feature cards */
+.feature-card {
+  border: 1px solid #ddd;
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Footer */
+footer {
+  background: #212529;
+  color: white;
+  font-size: 14px;
+}
